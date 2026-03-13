@@ -1,0 +1,14 @@
+C:\Users\ahmad\zadach3\zadach3\bin\Debug\zadach3.exe.config
+C:\Users\ahmad\zadach3\zadach3\bin\Debug\zadach3.exe
+C:\Users\ahmad\zadach3\zadach3\bin\Debug\zadach3.pdb
+C:\Users\ahmad\zadach3\zadach3\obj\Debug\zadach3.csproj.AssemblyReference.cache
+C:\Users\ahmad\zadach3\zadach3\obj\Debug\zadach3.Form1.resources
+C:\Users\ahmad\zadach3\zadach3\obj\Debug\zadach3.Properties.Resources.resources
+C:\Users\ahmad\zadach3\zadach3\obj\Debug\zadach3.protcent.resources
+C:\Users\ahmad\zadach3\zadach3\obj\Debug\zadach3.csproj.GenerateResource.cache
+C:\Users\ahmad\zadach3\zadach3\obj\Debug\zadach3.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\zadach3\zadach3\obj\Debug\zadach3.exe
+C:\Users\ahmad\zadach3\zadach3\obj\Debug\zadach3.pdb
+C:\Users\ahmad\zadach3\zadach3\obj\Debug\zadach3.exe.config
+C:\Users\ahmad\zadach3\zadach3\obj\Debug\zadach3.password.resources
+C:\Users\ahmad\zadach3\zadach3\obj\Debug\zadach3.temp.resources
